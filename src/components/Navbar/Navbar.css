@@ -1,0 +1,6 @@
+/* Navbar.css */
+@media (max-width: 768px) {
+  .navbar-menu-item-hidden {
+      display: none !important;
+  }
+}
