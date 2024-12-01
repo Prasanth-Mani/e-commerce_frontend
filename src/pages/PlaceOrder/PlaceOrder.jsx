@@ -7,7 +7,7 @@ import { useNavigate } from 'react-router-dom';
 
 
 
-const {url}=useContext(StoreContext);
+//const {url}=useContext(StoreContext);
 
 
 const PlaceOrder = () => {
