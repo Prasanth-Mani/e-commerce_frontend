@@ -11,7 +11,7 @@ const StoreContextProvider=(props)=>{
     const [cartItems,setCartItems]=useState({});
     const [token,setToken]=useState("");
     const[food_list,setFoodList]= useState([])
-    const url="https://e-commerce-backend-8s1b.onrender.com";
+    const url="http://localhost:4000";
 
 
  const addToCart=async(itemId)=>{
